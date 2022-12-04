@@ -1,0 +1,83 @@
+setnr,volgnr,Version,Color,Rarity,Code,MV,Type,Role,Archetype role,Name,Mana cost,Subtypes,P/T,Loyalty,Abilities,Art
+1,,,W,C,CW01,1,creature,flying,equipment,Hawk,W,Bird,1/1,,"Flying. Whenever ~ ETBs, you may attach target equipment you control to it. ",google
+2,,,W,C,CW02,2,creature,first strike,detective,Eagle-Eyed Detective,1W,Bird Detective,2/1,,"First strike. Whenever ~ ETBs, investigate. ",google
+3,,,W,C,CW03,2,creature,flying,,Bird Servant,2W,Servant,1/1,,"Flying. Whenever a legendary creature enters the battlefield under your control, you may tap ~. If you do, put a +1/+1 counter on that creature. ",google
+4,,,W,C,CW04,3,creature,lifelink,servant,Butler,2W,Servant,2/3,,"Lifelink. Whenever another servant or legendary creature enters the battlefield under your control, ~ gets +1/+1 until end of turn. ",google
+5,,,W,C,CW05,4,creature,,detective,By-the-book Detective,3W,Detective,3/3,,"{4}, {T}: Investigate. Whenever ~ deals damage, you may reveal a face-down card in exile. If you do, put an eye counter on it. ",google
+6,,,W,C,CW06,5,creature,vigilance,,Maid,4W,Servant,4/5,,"Vigilance. {1}, {T}: Destroy target artifact. ",google
+7,,,W,C,CW07,,instant,modal / token maker / combat trick,,Servant's Bell,1W,,,,Create a 1/1 Human Servant creature token. Then put a +1/+1 counter on a creature you control. ,google
+8,,,W,C,CW08,,enchantment,pacifism,,Turn in the Badge,2W,Aura,,,"Enchanted create can't attack or block. {4}, sacrifice ~: return target artifact from your graveyard to the battlefield. ",google
+9,,,W,C,CW09,,instant,removal,,Clean up the Mess,2WW,,,,Choose one: - destroy target attacking creature. - destroy target creature with power 4 or higher. - destroy target enchantment,google
+10,,,W,C,CW10,,artifact,equipment,equipment,Monocle,1W,,,,"Equiped create gets +1/+0 and ""whenever this creature deals combat damage to a creature, investigate"". Equip {2}",google
+11,,,U,C,CU01,1,creature,flash,detective,Private Investigator,U,Detective,1/1,,"Flash. When ~ dies, investigate. ",google
+12,,,U,C,CU02,2,creature,flying,,Drake,1U,Drake,1/3,,Flying. ~ gets +2/+0 as long as there are four different names among lands you control. ,google
+13,,,U,C,CU03,3,creature,flying,,Librarian,2U,Servant,2/3,,Flying,google
+14,,,U,C,CU04,4,creature,,detective,Psychic detective,3U,Detective,3/3,,"{1}{U}, {T}: Reveal the top card of your library. If it is a noncreature card, investigate. ",google
+15,,,U,C,CU05,6,creature,,,Kraken,4UU,Kraken,6/6,,vanilla,google
+16,,,U,C,CU06,,sorcery,divination-ish,control / unique lands matter,Survey the Grounds,2U,,,,Draw a card for each different name among lands you control,google
+17,,,U,C,CU07,,instant,bounce,tempo,Suspect the Butler,1U,,,,"If you control target permanent, investigate. Then return that permanent to its owner's hand. ",google
+18,,,U,C,CU08,,instant,disrupt spell (freeze or -N/-0),tempo,Red Herring,U,,,,"Tap target creature, if you control a clue, that creature doesn't untap during its controller's next untap step. ",google
+19,,,U,C,CU09,,instant,soft counter,,Plot Twist,1U,,,,Counter target creature spell unless its controllers pays {2} plus {2} for each clue you control. ,google
+20,,,U,C,CU10,,instant,hard counter,control,Elementary,1UU,,,,Counter target spell. Scry 2. ,google
+21,,,B,C,CB01,2,creature,,legendary,Zombie Servant,1B,Zombie Servant,3/1,,"Whenever a legendary permanent enters the battlefield under your control, you may pay {1}. If you do, return ~ from your graveyard to your hand. ",google
+22,,,B,C,CB02,2,creature,lifelink,aggro,Dirty Cop,1B,Detective,2/1,,"Lifelink. {1}, sacrifice another creature: ~ gets +2/+0 and gains indestructible until end of turn. Tap it. ",google
+23,,,B,C,CB03,3,creature,flying,legendary land,Bat,2B,Bat,2/2,,"Flying. Whenever a legendary land enters the battlefield under your control, each opponent loses 2 life and you gain 2 life. ",google
+,,,B,C,CB04,3,creature,should count as 60% creature,control,Rorschach,2B,Human,2/1,,Deathtouch. Flash,google
+24,,,B,C,CB05,4,creature,menace,servant,Bad Cop,3B,Detective,3/2,,"Menace. When ~ ETBs, you may put a face-down card from exile into your graveyard.",google
+25,,,B,C,CB06,5,creature,,,Servant Manager,4B,Servant,5/4,,"Whenever ~ enters the battlefield, servants you control get +1/+0 and gain indestructible until end of turn. ",google
+27,,,B,C,CB07,,instant,hard removal,,Bribe the Officials,3B,,,,Destroy target creature. Each player that controls a Detective creates a Treasure token.,google
+28,,,B,C,CB08,,sorcery,cond. removal,,Accuse,1B,,,,"Target creature gets -2/-2 until end of turn. Whenever that creature dies this turn, put a +1/+1 counter on a creature you control. ",google
+29,,,B,C,CB09,,sorcery,raise dead,"servant, legendary",Cemetary Secrets,3B,,,,"Return up to one creature card, up to one legendary creature card and up to one servant card from your graveyard to your hand. ",google
+30,,,B,C,CB10,,sorcery,mind rot,control,Endless Corridors,3B,,,,"Target opponent discards a card. Then, look at that opponent's hand and choose a nonland permanent. That opponent discards that card. ",google
+31,,,R,C,CR01,1,creature,first strike,aggro,Mouse,R,Mouse,1/1,,"First strike. Whenever ~ dies, it deals damage equal to its power to any target. ",google
+32,,,R,C,CR02,2,creature,haste,aggro,Beat Cop,1R,Detective,2/1,,"Haste. Whenever ~ deals combat damage to a player, investigate. ",google
+33,,,R,C,CR03,2,creature,menace,manland,Possesed Armor,1R,Spirit,2/1,,"Menace. When ~ ETBs, up to one target land you control becomes a 3/3 elemental creature with haste and menace until ~ leaves the battlefield",google
+34,,,R,C,CR04,3,creature,reach,,Rogue Cop,2R,Detective,3/2,,"When ~ ETBs or dies, you may look at a face-down card in exile. If you do, put an eye counter on it. ",google
+35,,,R,C,CR05,4,creature,trample,,Beast,3R,Beast,4/4,,~ has trample and haste as long as it's equipped. ,google
+36,,,R,C,CR06,2,spell,should count as 30% creature / other direct damage spell? ,,Damage,1R,,,,"~ deals 2 damage to target creature. If excess damage was dealt this way, create a 1/1 Human Servant creature token. ",google
+37,,,R,C,CR07,,instant,efficient direct damage,,Bolt,2R,,,,~ 3 damage to any target,google
+38,,,R,C,CR08,,instant,combat trick,,Trick,R,,,,Target creature gets +3/+0 and trample until end of turn. ,google
+39,,,R,C,CR09,,sorcery,steal effect,"aggro, tempo",Steal,1R,,,,Gain control of a random creature target opponent controls until end of turn. It gets +1/+0 and gains haste until end of turn. ,google
+40,,,R,C,CR10,,artifact,equipment,"aggro, tempo",Smoking Pipe,1R,Equipment,,,"Equiped creature gets +1/+0. {4}: Equiped creature gets +X/+0 until end of turn, where X is its power. Sacrefice it at the beginning of the next end step. Equip {1}",google
+41,,,G,C,CG01,2,creature,deathtouch,,Scorpion,1G,Scorpion,1/1,,Deathtouch. ~ gets +3/+3 as long as you control a legendary land. ,google
+42,,,G,C,CG02,2,creature,vigilance,manland,Possesed Portrait,1G,Shaman,2/1,,"Vigilance. When ~ ETBs, up to one target land you control becomes a 3/3 elemental creature with haste and vigilance until ~ leaves the battlefield. ",google
+43,,,G,C,CG03,3,creature,haste,unique lands,Runner,2G,Servant,3/2,,"Haste. Whenever ~ deals combat damage for the first time, you may search your library for a basic land card and put in on the battlefield tapped, then shuffle. ",google
+44,,,G,C,CG04,4,creature,reach,,Spider Servant,3G,Spider Servant,2/4,,"Reach. When ~ ETBs, put a +1/+1 counter on each of up to two target servants you control. ",google
+45,,,G,C,CG05,5,creature,,,Big Servant,4G,Servant,5/5,,Vanilla,google
+46,,,G,C,CG06,8,creature,trample,unique lands matter,Mammoth,6GG,Mammoth,6/6,,~ costs {1} less to cast for each different name among lands you control. ,google
+47,,,G,C,CG07,,sorcery,fight or bite,,Fight,1G,,,,"Target creature you control gets +2/+2 until end of turn if it's a land. Then, that creature fights target creature you don't control. ",google
+48,,,G,C,CG08,,instant,giant growth-ish,,Growth,2G,,,,Target creature gets +3/+3 until end of turn. Investigate.,google
+49,,,G,C,CG09,,sorcery,mana ramp,"Unique lands, manland",Ramp,1G,,,,"Search your library for a basic land card and put it on the battlefield tapped, then shuffle. You mag pay {1}. If you do, that land bewoners a 3/3 green creature. It's still a land. ",google
+50,,,G,C,CG10,,sorcery,disenchant,,Wrecking Things,1GG,,,,Choose one: - destroy target artifact. - destroy target enchantment. - return target permanent card from your graveyard to your hand.,google
+,,,A,C,CA01,,artifact creature,,,Inspector Gadget,3,Detective,3/2,,"When ~ enters the battlefield, target player reveals their hand. ",google
+,,,A,C,CA02,,artifact creature,land / color fixing,,Manor Gargoyle,2,Gargoyle,2/1,,{2}: Add one mana of any color. ,google
+,,,A,C,CA03,,artifact,equipment,,Sword,2,,,,Equiped creature gets +1/+1. Equip {1},google
+,,,,M,LOC1,,Legendary Land,legendary land,,Kitchen,,Location,,,"{T}: Add one mana of any one color. {1},{T}: Create a food token. ",google
+,,,,M,LOC2,,Legendary Land,legendary land,,Ballroom,,Location,,,"{T}: Add one mana of any one color. {2/r},{T}: Creatures you contol have haste and get +1/+0 until end of turn. Activate only during your turn. ",google
+,,,,M,LOC3,,Legendary Land,legendary land,,Conservatory,,Location,,,"{T}: Add one mana of any one color. {2/g}{2/g}{2/g},{T}: Gain one life for each land you control. ",google
+,,,,M,LOC4,,Legendary Land,legendary land,,Dining Room,,Location,,,{T}: Add GGG. {2/g}{2/r}: ~ becomes a 4/4 Elemental Servant creature until end of turn. It is still a land. ,google
+,,,,M,LOC5,,Legendary Land,legendary land,,Billiard Room,,Location,,,"{T}: Add one mana of any one color. {2/b}{2/b}{2/b},{T}: Target creature gets -3/-3 until end of turn. Activate only as sorcery.",google
+,,,,M,LOC6,,Legendary Land,legendary land,,Library,,Location,,,"{T}: Add one mana of any one color. {2/b}{2/b},{T}: Search your library for a card, shuffle and put that card on top of it. ",google
+,,,,M,LOC7,,Legendary Land,legendary land,,Lounge,,Location,,,"{T}: Add one mana of any one color. {2/b}, pay 2 life: draw a card. ",google
+,,,,M,LOC8,,Legendary Land,legendary land,,Hall,,Location,,,"{T}: Add one mana of any one color. {2/g}{2/g}{3} {T}, Sacrifice ~: Put up to two location cards from exile into your hand. ",google
+,,,,M,LOC9,,Legendary Land,legendary land,,Study,,Location,,,"{T}: Add one mana of any one color. {2/u},{T}: Scry1. {2/u}{2/u},{T}: Draw a card.",google
+,,,,M,WEA1,,Legendary Artifact,equipment,,Candlestick,2(2/w),Equipment Weapon,,,Equiped creature gets +2/+2 and has lifelink. Equip {3},google
+,,,,M,WEA2,,Legendary Artifact,equipment,,Dagger,2(2/r),Equipment Weapon,,,Equiped creature gets +4/+0 and. Equip {2},google
+,,,,M,WEA3,,Legendary Artifact,equipment,,Lead Pipe,2(2/r),Equipment Weapon,,,Equiped creature gets +2/+2 and has trample. Equip {2},google
+,,,,M,WEA4,,Legendary Artifact,equipment,,Revolver,2(2/b),Equipment Weapon,,,"Equiped creature gets +2/+0. Whenever equiped creature dies, destroy target creature. Equip {3}",google
+,,,,M,WEA5,,Legendary Artifact,equipment,,Rope,2(2/g),Equipment Weapon,,,Equiped creature has reach gets +0/+2. Equip {2},google
+,,,,M,WEA6,,Legendary Artifact,equipment,,Wrench,2(2/w),Equipment Weapon,,,"Whenever equiped creature attacks, return up to one target artifact from your graveyard to the battlefield. Equiped creature gets +2/+2. Equip {3}",google
+,,,,M,CHA1,,Legendary Creature,legendary,,Miss Scarlett,2(2/r)(2/r),Human Character,4/3,,"Haste. {2}{2/r},{T}: Untap target creature and gain control of it until end of turn. It gets hast until end of turn. ",google
+,,,,M,CHA2,,Legendary Creature,legendary,,Reverand Green,3(2/g),Human Character,3/5,,"Vigilance. Whenever a creature enters the battlefield under your control, gain 3 life. ",google
+,,,,M,CHA3,,Legendary Creature,legendary,,Colonel Mustard,2(2/r)(2/w),Human Character,4/4,,"Equipped creatures have double strike. {3},{T}: Attach target equipment to target creature. ",google
+,,,,M,CHA4,,Legendary Creature,legendary,,Professor Plum,(2/u)(2/b),Human Character,2/2,,"When ~ ETBs or dies, surveil 3. ",google
+,,,,M,CHA5,,Legendary Creature,legendary,,Mrs. Peacock,2(2/u),Human Character,3/3,,"Whenever ~ blocks a creature, that creature gets -4/-0 and does't untap during its controller's next untap step. ",google
+,,,,M,CHA6,,Legendary Creature,legendary,,Mrs. White,2(2/w),Human Character,3/3,,Lifelink. Servants you control get +1/+1 and have lifelink. ,google
+,,,,T,TW01,,Token creature,,,Human Servant,,Human Servant,1/1,,,google
+,,,,T,TA01,,Token artifact,,,Clue,,Clue,,,"{2}, sacrifice ~: Draw a card. {2}, sacrifice ~: Put a face-down card from exile into your hand.",google
+,,,,,TE01,,Emblem,,,Identify the Killer,,,,,"{3}: Guess a Character. If you guessed correctly, creatures you control get +3/+3 until end of turn. Else, destroy all creatures you control. (To guess a Character, choose a card name. Then look at a hidden face-down Character card. If that card has the chosen name, you may reveal it and put it in your hand.)",google
+,,,,,TE02,,Emblem,,,Decide the Murder Weapon,,,,,"{3}: Guess a Weapon. If you guessed correctly, gain 10 life. Else, you lose 15 life. (To guess a Weapon, choose a card name. Then look at a hidden face-down Weapon card. If that card has the chosen name, you may reveal it and put it in your hand.)",google
+,,,,,TE03,,Emblem,,,Uncover the Crime Scene,,,,,"{3}: Guess a Location. If you guessed correctly, draw six cards. Else, sacrifice two thirds of your lands, rounded down. (To guess a Location, choose a card name. Then look at a hidden face-down Location card. If that card has the chosen name, you may reveal it and put it in your hand.)",google
+,,,,,TE04,,Emblem,,,Solve the Murder,,,,,"{3}: Guess all. If you guessed correctly, you win the game. Else, you lose the game. (To guess all, choose a Character, Weapon and Location card name. Then, look at all remaining hidden face-down cards. If those cards have the chosen names, you may reveal them and put them in your hand.)",google
+,,,,,TE05,,Emblem,,,Murder Clues,,,,,"Clues you control have ""{2}, sacrifice ~: Put a face-down card from exile into your hand.""",google
+,,,,,TA02,,Token artifact,,,Food,,Food,,,"{2}, {T}, Sacrifice this artifact: gain 2 life. ",google

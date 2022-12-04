@@ -42,7 +42,7 @@ def save_images(data, path='output/'):
         if res.status_code == 200:
             with open(path+name+'.jpg', 'wb') as f:
                 shutil.copyfileobj(res.raw, f)
-            print(f"successfully donloaded {name}")
+            print(f"successfully downloaded {name}")
         else:
             print(f"couldn't download {name}")
         time.sleep(0.1)

@@ -1,0 +1,347 @@
+#N/A,,,,,Code,MV,Type,Subtype,Role,"Role
+available","Univ./
+powerlvl
+def","Univ./
+powerlvl
+available",Triome,Triome available,"1st
+archet.","2nd
+archet.",ETB?,Cycle,Activated ability?,Triggered ability?,Bestaansrecht,Name,mechanics,power,toughness,P/T,show img,Link,Sort color,Triom count code,Opmerking,Art,Version,Color
+1,1,,W,C,CW1,1,creature,,first strike,,univ + low power,,,,,,,charm,,,,Fox of Fortune,,1,2,1/2,,https://mtg.design/i/ugby86,1W,WC,,google,,C
+2,2,,W,C,CW2,1/2,creature,,,flying,,sideboard,,,,,,,,,,Indignant Songbird,reflection,1,1,1/1,,https://mtg.design/i/renn07,1W,WC,,google,,C
+3,3,,W,C,CW3,2,creature,,flying,,mid + mid,,Jeskai,,,,,,,,,Blue Sky Pegasus,flying,1,3,1/3,,https://mtg.design/i/sdci02,1W,WCJeskai,,google,,C
+4,4,,W,C,CW4,2,creature,,vigilance,,mid + mid,,Naya,,,,,,,,,Heedful Battler,"rider, vigilance",2,2,2/2,,https://mtg.design/i/zuqk10,1W,WCNaya,,google,,C
+5,5,,W,C,CW5,2,creature,,,,speci + high power,,"Jeskai, Abzan",,,,,off color: blue,,,,King's Inspector ,"maintenance+, reflection",1,3,1/3,,https://mtg.design/i/knlz18,1W,"WCJeskai, Abzan",,google,,C
+6,6,,W,C,CW6,2/3,creature,,,,univ + high power,,,,,,,,,,,Unyielding Soldier,,3,1,3/1,,,1W,WC,,google,,C
+7,7,,W,C,CW7,3,creature,,lifelink (pwr 3 or less),,univ + low power,,"Naya, Abzan",,,,,,,,,Blessed Coordinator,lifegain,3,2,3/2,,https://mtg.design/i/salk25,1W,"WCNaya, Abzan",,google,,C
+8,8,,W,C,CW8,3,creature,,,,speci + high power,,Abzan,,,,,,,,,Pack Tusker,lifegain. maintenance,2,5,2/5,,https://mtg.design/i/szsj88,1W,WCAbzan,,google,,C
+9,9,,W,C,CW9,4,creature,,,,speci + high power,,"Naya, Abzan",,,,,,,,,Slingshot Centaur,stone tokens+,2,4,2/4,,https://mtg.design/i/xnaf73,1W,"WCNaya, Abzan",,google,,C
+10,10,,W,C,CW10,4,creature,,,,univ + low power,,"Jeskai, Naya",,,,,,,,,Knight Riders,rider,4,4,4/4,,https://mtg.design/i/howr82,1W,"WCJeskai, Naya",,google,,C
+11,11,,W,C,CW11,5,creature,,flying,,univ + high power,,Naya,,,,,off color: green,,,,Taunting Dragon,flying,3,4,3/4,,https://mtg.design/i/ignz55,1W,WCNaya,,google,,C
+12,12,,W,C,CW12,5/6,creature,,,,speci + high power,,Abzan,,,,,,,,,Diligent Instructor,diligence,4,4,4/4,,https://mtg.design/i/eydl15,1W,WCAbzan,,google,,C
+13,13,,W,C,CW13,-,,,small removal,,mid + mid,,,,,,,,,,,Subdue,,,,/,,https://mtg.design/i/oxxk69,1W,WC,,google,,C
+14,14,,W,C,CW14,-,,,pacifism,,univ + high power,,Abzan,,,,,,,,,Truce of Kind,,,,/,,https://mtg.design/i/mvxl63,1W,WCAbzan,,google,,C
+15,15,,W,C,CW15,-,,,destroy large creature,,mid + mid,,,,,,,,,,,Conspiritorial Strike,,,,/,,https://mtg.design/i/wnas69,1W,WC,,google,,C
+16,16,,W,C,CW16,-,,,combat trick,,mid + mid,,,,,,,,,,,Heroic Vibe,"counter, reap",,,/,,https://mtg.design/i/teer30,1W,WC,,google,,C
+17,17,,W,C,CW17,2,aura,,positive aura/equipment,,,mid + mid,Jeskai,,,,,,,,,Sharp Claws,reflection,,,/,,https://mtg.design/i/snjh57,1W,WCJeskai,,google,,C
+18,18,,W,C,CW18,-,,,team pump spell,,,mid + mid,,,,,,,,,,Concert Efforts,,,,/,,https://mtg.design/i/oywn60,1W,WC,J: veel interessanter ontwerp dan Sweet,google,,C
+19,19,,W,C,CW19,-,,,disenchant,,sideboard,,,,,,,,,,,Endchantment,,,,/,,https://mtg.design/i/mzwl27,1W,WC,"J: cycling zit niet in onze set, dus dan hoort het niet op een common",google,,C
+20,1,,W,U,UW1,2,creature,,Hyperagressieve tweedrop,,,Naya standalone,,,,,,,,,,Opportunistic Knight,tapper,3,1,,,https://mtg.design/i/rsax72,1W,WU,,,,U
+21,2,,W,U,UW2,2,creature,,,flash,,Abzan standalone,,,,,,,,,,Army Chef,,2,2,,,https://mtg.design/i/srxw19,1W,WU,,,,U
+22,3,,W,U,UW3,2,creature,,,vigilance,,Jeskai standalone,,,,,,,,,,"Ciric, the Slow",reflection,1,5,,,https://mtg.design/i/mkji06,1W,WU,,,,U
+23,4,,W,U,UW4,3,creature,,,,,Naya buildaround,Naya,,,,,,,,,Diplomatic Negotiator,dragonrider,2,1,,,https://mtg.design/i/ybxx88,1W,WUNaya,,,,U
+24,5,,W,U,UW5,3,creature,,,double strike,,Abzan buildaround,,,,,,,,,,Stone Tactician,,2,4,,,https://mtg.design/i/zhnn37,1W,WU,,,,U
+25,6,,W,U,UW6,5,creature,,,lifelink,,Jeskai buildaround,,,,,,,,,Enabler voor strategieën die draaien om tokens; met name interessant target om te kopieëren ,Angel's Choice,,4,4,,,https://mtg.design/i/iiev64,1W,WU,,,,U
+26,7,,W,U,UW7,1,creature,,team hexproof,,,wacky buildaround,,,,,,,,,,Fanatic Shieldmate,,2,1,,,https://mtg.design/i/rter47,1W,WU,,,,U
+27,8,,W,U,UW8,any,creature,,,,,wacky buildaround,,,,,,,,,,Nurturing Tiger,,3,4,,,https://mtg.design/i/gicn63,1W,WU,,,,U
+28,9,,W,U,UW9,any,creature,,,,,univ. high power,,,,,,,,,,Mindlife Coach,,3,3,,,https://mtg.design/i/sonr00,1W,WU,,,,U
+29,10,,W,U,UW10,-,,,creature removal,,,univ. high power,,,,,,,,,,Overprotective Patriach,,3,3,,,https://mtg.design/i/wvyz43,1W,WU,,,,U
+30,11,,W,U,UW11,-,,,,,,univ. high power,,,,,,,,,,Stone Tactician,,2,4,,,https://mtg.design/i/zhnn37,1W,WU,,,,U
+31,12,,W,U,UW12,-,,,cloak cycle,,,univ. high power,,,,,,cloak,,,,Light Cloak,,,,,,https://mtg.design/i/cxnr38,1W,WU,,,,U
+32,13,,W,U,UW13,-,,,,saga cycle,,univ. high power,,,,,,saga,,,,,,,,,,,1W,WU,,,,U
+33,14,,W,U,UW14,-,,,,,,Misc.,,,,,,,,,,Safely Buried,stone token payoff,,,,,https://mtg.design/i/ysyb03,1W,WU,,,,U
+34,15,,W,U,UW15,-,,,,,,Misc.,,,,,,,,,,Inspired By Spirits,,,,,,https://mtg.design/i/dgld94/edit,1W,WU,,,,U
+35,1,,W,R,RW1,-,,,,,,Azorius,,,,,,,,,,Generous Witchcraft ,,,,,,https://mtg.design/i/yara44,1W,WR,,,,R
+36,2,,W,R,RW2,-,,,,,,Orzhov,,,,,,,,,,Lonely Widow,,,,,,https://mtg.design/i/cwsy37,1W,WR,,,,R
+37,3,,W,R,RW3,-,,,,,,Boros,,,,,,,,,,,,,,,,,1W,WR,,,,R
+38,4,,W,R,RW4,-,,,,,,Selesnya,,,,,,,,,,,,,,,,,1W,WR,,,,R
+39,5,,W,R,RW5,4,,,,,,Naya,,,,,,,,,,Prison Experiment,,,,,,https://mtg.design/i/ctsr58/edit,1W,WR,,,,R
+40,6,,W,R,RW6,-,,,,,,Jeskai,,,,,,,,,,"Tamio, Sloganeer",,2,3,,,https://mtg.design/i/fqzk93,1W,WR,,,,R
+41,7,,W,R,RW7,-,,,,,Abzan,,,,,,,,,,,"Marut, Searching Home",flying,3,3,,,https://mtg.design/i/cfpc51,1W,WR,,,,R
+42,8,,W,R,RW8,3,,,,,,univ. high power,,,,,,,,,,Castle's Blessing,,,,,,https://mtg.design/i/hebx20/edit,1W,WR,,,,R
+43,9,,W,R,RW9,-,,,,,,univ. high power,,,,,,,,,,,,,,,,,1W,WR,,,,R
+44,10,,W,R,RW10,-,,,,,,misc. ,,,,,,reversed mechanic,,,,,,,,,,,1W,WR,,,,R
+45,1,,W,M,MW1,-,,,,,,,,,,,,,,,,Yawning Liger,,3,4,,,https://mtg.design/i/vobj54,1W,WM,,,,M
+46,2,,W,M,MW2,-,,,,,,,,,,,,,,,,,,,,,,,1W,WM,,,,M
+47,3,,W,M,MW3,-,,,,,,,,,,,,,,,,,,,,,,,1W,WM,,,,M
+48,4,,W,M,MW4,-,,,,,,,,,,,,,,,,,,,,,,,1W,WM,,,,M
+49,5,,W,M,MW5,-,,,,,,,,,,,,,,,,,,,,,,,1W,WM,,,,M
+50,1,,U,C,CU1,1,creature,,,,univ + low power,,,Jeskai,,,,charm,,,,Delightful Jelly,"draw, stone token+, conditional removal",1,1,1/1,,https://mtg.design/i/ashx60,1U,UC,,google,,C
+51,2,,U,C,CU2,2,creature,,"flying, flash",,,sideboard,Grixis,,,,,,,,,Gletibol,"flying, draw, infiltrate",1,3,1/3,,https://mtg.design/i/bczr72,1U,UCGrixis,,google,,C
+52,3,,U,C,CU3,2,creature,,,,,univ + high power,Sultai,,,,,,,,,Skillseaking Pirate,"scry, cantrip ",2,1,2/1,,https://mtg.design/i/dnrn83,1U,UCSultai,,google,,C
+53,4,A,U,C,CU4,3,creature,,flying,,,univ + high power,,Jeskai,,,,,,,,Disturbing Beak Bearer,"flying, flash, stone token+",2,2,2/2,,https://mtg.design/i/capk51,1U,UC,you may have target opponent gain control of target stone token you control. ,google,A,C
+53,4,B,U,C,CU4,3,creature,,flying,,,univ + high power,,Jeskai,,,,,,,,Griffin of Remembrance,"flying, bounce",2,3,2/3,,https://mtg.design/i/hzoz73,1U,UC,,google,B,C
+54,5,,U,C,CU5,3,creature,,,hexproof/ward,speci + high power,,,Sultai,,,,off color: green,,,,Stone Searcher,alchemy,2,3,2/3,,https://mtg.design/i/gjcp20,1U,UC,"exile a land ""you control""",google,,C
+55,6,,U,C,CU6,4,creature,,,,,univ + high power,,Grixis,,,,,,,,Fast Crab,"anti-flash, flash, trick",2,5,2/5,,https://mtg.design/i/slss88,1U,UC,haal reminder text weg,google,,C
+56,7,,U,C,CU7,4,creature,,,,,speci + high power,,"Jeskai, Grixis",,,,,,,,Boomsplicer,,1,5,1/5,,https://mtg.design/i/veqm10,1U,UC,,google,,C
+57,8,,U,C,CU8,5,creature,,flying,,,speci + high power,,"Sultai, Jeskai",,,,,,,,Dragon-o'-War,"flying, bounce",3,3,3/3,,https://mtg.design/i/ypox10,1U,UC,,google,,C
+58,9,,U,C,CU9,6+,creature,,,,,sideboard,,"Sultai, Grixis",,,,,,,,Hiding Turtle,,3,6,3/6,,https://mtg.design/i/yesn29,1U,UC,,google,,C
+59,10,,U,C,CU10,-,,,defender creature,,,univ + low power,,,,,,,,,,Turtle from Heaven,"flash, counter+",0,5,0/5,,https://mtg.design/i/pdkh45,1U,UC,,google,,C
+60,11,,U,C,CU11,-,,,soft counter,,,univ + low power,,,,,,,,,,No Fancy Stuff,"flash, counterspell",,,/,,https://mtg.design/i/slpp88,1U,UC,,google,,C
+61,12,,U,C,CU12,-,,,hard counter,,speci + high power,,,,,,,off color: red,,,,Hold That Thought,"counterspell, reap, stone token+",,,/,,https://mtg.design/i/ueor42,1U,UC,,google,,C
+62,13,,U,C,CU13,-,,,lockdown aura,,,mid + mid,,,,,,,,,,Quarantine Measures,"removal, flash",,,/,,https://mtg.design/i/qfzz37,1U,UC,,google,,C
+63,14,,U,C,CU14,-,,,card draw,,,mid + mid,,,,,,,,,,Espionage,"reap, infiltrate+, draw",,,/,,https://mtg.design/i/fmyn55,1U,UC,,google,,C
+64,15,,U,C,CU15,-,,,,cantrip/card filter,,mid + mid,,,,,,,,,,,,,,/,,,1U,UC,,google,,C
+65,16,,U,C,CU16,2,,,,bounce,,mid + mid,,,,,,,,,,Joyful Reunion,,,,/,,https://mtg.design/i/iotl08,1U,UC,,google,,C
+66,17,,U,C,CU17,-,,,,positive aura / combat trick,,mid + mid,,,,,,,,,,,,,,/,,,1U,UC,,google,,C
+67,18,,U,C,CU18,-,,,disrupt opposing creature,,,mid + mid,,,,,,,,,,Swoop,reap,,,/,,https://mtg.design/i/duwp40,1U,UC,,google,,C
+68,19,,U,C,CU19,,,,,,,mid + mid,,,,,,,,,,Hide Under a Jellyfish,cantrip,,,/,,https://mtg.design/i/hgql40,1U,UC,,google,,C
+69,1,,U,U,UU1,1,creature,,,flash?,,Jeskai standalone,,,,,,,,,,Curious Owl,,,,,,https://mtg.design/i/lyzj54,1U,UU,,,,U
+70,2,,U,U,UU2,2,creature,,,,,Sultai standalone,,,,,,,,,,Searching Alchemist,,1,1,,,https://mtg.design/i/gjxp75,1U,UU,,,,U
+71,3,,U,U,UU3,2,creature,,,flying,,Grixis standalone,,,,,,,,,,Backdoor Prowler,,2,1,,,https://mtg.design/i/kmyf56.jpg,1U,UU,,,,U
+72,4,A,U,U,UU4,3,creature,,,hexproof?,,Jeskai buildaround,,,,,,,,,,Anima Alchemist,,2,3,,,https://mtg.design/i/vfeu55,1U,UU,,,,U
+72,4,B,U,U,UU4,3,creature,,,hexproof?,,Jeskai buildaround,,,,,,,,,,Warrior on Waves,flash,3,3,,,https://mtg.design/i/zegl02,1U,UU,,,,U
+73,5,,U,U,UU5,6,creature,,flying,,,Sultai buildaround,,,,,,,,,,"Umoromu, Skyborn","reflection, flying",4,5,,,https://mtg.design/i/eukn28,1U,UU,,,,U
+74,6,,U,U,UU6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,U
+75,7,,U,U,UU7,any,creature,,,,,wacky buildaround,,,,,,,,,,Microcosmus,,5,6,,,https://mtg.design/i/rhid46,1U,UU,,,,U
+76,8,,U,U,UU8,any,creature,,,,,wacky buildaround,,,,,,,,,,Whale of Protection,,6,7,,,https://mtg.design/i/ihoe69,1U,UU,,,,U
+77,9,,U,U,UU9,-,,,,card draw,,univ. high power,,,,,,,,,,,,,,,,,1U,UU,,,,U
+78,10,,U,U,UU10,-,,,,counterspell,,univ. high power,,,,,,,,,,Not On My Watch,,,,,,https://mtg.design/i/dcfj40.jpg,1U,UU,,,,U
+79,11,,U,U,UU11,-,equipment,,cloak cycle,cloak cycle,,univ. high power,,,,,,cloak,,,,Rain Cloak,,,,,,https://mtg.design/i/flbm54,1U,UU,,,,U
+80,12,,U,U,UU12,-,,,,saga cycle,,univ. high power,,,,,,saga,,,,,,,,,,,1U,UU,,,,U
+81,13,,U,U,UU13,-,,,,,,univ. high power,,,,,,,,,,Stonify,,,,,,https://mtg.design/i/fsmk56,1U,UU,,,,U
+82,14,,U,U,UU14,-,sorcery,,,,,Misc.,,,,,,,,,,Anamorphosis,,,,,,https://mtg.design/i/yuur59,1U,UU,,,,U
+83,15,,U,U,UU15,1,vehicle,,,,,Misc.,,,,,,,,,,Trojan Donkey,Infiltrate,2,2,,,https://mtg.design/i/atth87,1U,UU,,,,U
+84,1,,U,R,RU1,-,,,,,,Dimir,,,,,,,,,,Warding Alchemist,ward,3,4,,,https://mtg.design/i/hsey35,1U,UR,,,,R
+85,2,,U,R,RU2,-,,,,,,Izzet,,,,,,,,,,,,,,,,,1U,UR,,,,R
+86,3,,U,R,RU3,-,,,,,,Simic,,,,,,,,,,,,,,,,,1U,UR,,,,R
+87,4,,U,R,RU4,-,,,,,,Azorius,,,,,,,,,,,,,,,,,1U,UR,,,,R
+88,5,,U,R,RU5,-,enchantment,,,,,Jeskai,,,,,,,,,,Organized Library,,,,,,https://mtg.design/i/yadz56,1U,UR,,,,R
+89,6,,U,R,RU6,-,creature,,,,"Sultai, Grixis",Sultai,,,,,,,,,,"Colombo, Colonist",unblockable,2,3,,,https://mtg.design/i/gpnl34,1U,UR,,,,R
+90,7,,U,R,RU7,-,creature,,,,,Grixis,,,,,,,,,,Djinn of Endless Choices,,*,4,,,https://mtg.design/i/dkmi88,1U,UR,,,,R
+91,8,,U,R,RU8,-,sorcery,,,,,univ. high power,,,,,,,,,,Call the Stunt Double,mill,x,x,,,https://mtg.design/i/pshc39,1U,UR,,,,R
+92,9,,U,R,RU9,-,,,,,,univ. high power,,,,,,,,,,,,,,,,,1U,UR,,,,R
+93,10,,U,R,RU10,-,,,,,,misc.,,,,,,reversed mechanic,,,,"Valyria, Dragon Temptress","flying, rider",2,2,,,https://mtg.design/i/vtkf82,1U,UR,,,,R
+94,1,,U,M,MU1,-,planeswalker,,,,,,,,,,,,,,,"Jovaso, Control Freak",,,,,,https://mtg.design/i/ksnl84,1U,UM,,,,M
+95,2,,U,M,MU2,-,,,,,,,,,,,,,,,,,,,,,,,1U,UM,,,,M
+96,3,,U,M,MU3,-,,,,,,,,,,,,,,,,,,,,,,,1U,UM,,,,M
+97,4,,U,M,MU4,-,,,,,,,,,,,,,,,,,,,,,,,1U,UM,,,,M
+98,5,,U,M,MU5,-,,,,,,,,,,,,,,,,,,,,,,,1U,UM,,,,M
+99,1,,B,C,CB1,1,creature,,deathtouch,,univ + low power,,Sultai,,,,,charm,,,,Stinging Jelly,"sacrifice, deathtouch ",1,1,1/1,,https://mtg.design/i/fzjj90,1B,BCSultai,,google,,C
+100,2,A,B,C,CB2,2,creature,,,,speci + high power,,Grixis,,,,,,,,,Sly Spymaster,"infiltrate+, playerburn, lifegain",2,1,2/1,,https://mtg.design/i/myag09,1B,BCGrixis,,google,A,C
+100,2,B,B,C,CB2,2,creature,,,,,sideboard,,Sultai,,,,,,,,Alchemist's Familiar,drain,1,1,1/1,,https://mtg.design/i/tmvv07,1B,BC,,google,B,C
+101,3,,B,C,CB3,2,creature,,,,univ + low power,,Abzan,,,,,,,,,Doomed Pretender,"maintenance, dietrigger, token",1,2,1/2,,https://mtg.design/i/uait79,1B,BCAbzan,,google,,C
+102,4,A,B,C,CB4,2/3,creature,,,flying,,univ + high power,Sultai,,,,,,,,,Shade Something,flying,2,1,2/1,,https://mtg.design/i/dtzr74,1B,BCSultai,,google,A,C
+102,4,B,B,C,CB4,2/3,creature,,,flying,,univ + high power,,,,,,,,,,Demonic Shade,"lifelink, flying",2,4,2/4,,https://mtg.design/i/qkgr37,1B,BC,,google,B,C
+103,5,,B,C,CB5,3,creature,,,linelink (pwr 3 or less),speci + high power,,,Abzan,,,,off color: white,,,,Sneaky Guy,"cantrip, infiltrate",1,3,1/3,,https://mtg.design/i/zpft92,1B,BC,,google,,C
+104,6,,B,C,CB6,3,creature,,,,,univ + high power,,Grixis,,,,,,,,Responsible Butcher,"sacrifce, draw",2,3,2/3,,https://mtg.design/i/qnel16,1B,BC,,google,,C
+105,7,,B,C,CB7,4,creature,,menace,,,speci + high power,,"Abzan, Grixis",,,,,,,,Swamp Leech,,4,2,4/2,,https://mtg.design/i/suvt09,1B,BC,,google,,C
+106,8,,B,C,CB8,4,creature,,,flash (low toughness),,speci + high power,,"Sultai, Abzan",,,,,,,,,,,,/,,,1B,BC,,google,,C
+107,9,,B,C,CB9,5,creature,,flying,,,sideboard,,"Grixis, Sultai",,,,,,,,Festering Dragon,"flying, dragonrider+",3,3,3/3,,https://mtg.design/i/cxdr85,1B,BC,,google,,C
+108,10,,B,C,CB10,6+,creature,,,,,univ + high power,,Abzan,,,,,,,,Ravenous Gravesniffer,"raise dead, lifegain",5,5,5/5,,https://mtg.design/i/esmy37,1B,BC,,google,,C
+109,11,,B,C,CB11,-,,,,removal (anything),,univ + low power,,,,,,,,,,Never Wanna See You Again,removal,,,/,,https://mtg.design/i/wddz79,1B,BC,,google,,C
+110,12,,B,C,CB12,-,,,,removal (small),speci + high power,,,,,,,off color: blue,,,,Demanding Goblin,maintenance,3,2,3/2,,https://mtg.design/i/dedh24,1B,BC,,google,,C
+111,13,,B,C,CB13,-,,,,removal (conditional),,mid + mid,,,,,,,,,,Unexpected Pain,"removal, reap, raise dead",,,/,,https://mtg.design/i/brvu36,1B,BC,,google,,C
+112,14,,B,C,CB14,-,,,,removal (conditional),,mid + mid,,,,,,,,,,,,,,/,,,1B,BC,,google,,C
+113,15,,B,C,CB15,-,,,,card draw,,mid + mid,,,,,,,,,,,,,,/,,,1B,BC,,google,,C
+114,16,,B,C,CB16,-,,,,raise dead,,mid + mid,,,,,,,,,,,,,,/,,,1B,BC,,google,,C
+115,17,A,B,C,CB17,-,,,mind rot,,,mid + mid,,,,,,,,,,Anti Magic,discard,,,/,,https://mtg.design/i/cgai14,1B,BC,,google,A,C
+115,17,B,B,C,CB17,-,,,mind rot,,,mid + mid,,,,,,,,,,Memory Capture,discard,,,/,,https://mtg.design/i/jpol25,1B,BC,,google,B,C
+116,18,,B,C,CB18,-,,,,positive aura / combat trick,,mid + mid,,,,,,,,,,Smokes,"reap, deathtouch, counter, lifegain",,,/,,https://mtg.design/i/iioi41,1B,BC,,google,,C
+117,19,,B,C,CB19,-,,,,temp indestructible   or anything,,mid + mid,,,,,,,,,,,,,,/,,,1B,BC,,google,,C
+118,1,,B,U,UB1,1,creature,,deathtouch,,,Abzan standalone,,,,,,,,,,Graveblocker,,1,1,,,https://mtg.design/i/iwcc52,1B,BU,,,,U
+119,2,,B,U,UB2,2,creature,,,flying,,Sultai standalone,,,,,,,,,,Conniving Rat,,2,1,,,https://mtg.design/i/feyr04,1B,BU,,,,U
+120,3,,B,U,UB3,2,creature,,,lifelink,,Grixis standalone,,,,,,,,,,Hungry Bat,"infiltrate, flying, deathtouch",2,1,,,https://mtg.design/i/bpjk06,1B,BU,,,,U
+121,4,,B,U,UB4,3,creature,,,menace,,Abzan buildaround,,,,,,,,,,Boot Scorpion,maintenance,2,1,,,https://mtg.design/i/moqi31,1B,BU,,,,U
+122,5,,B,U,UB5,4,creature,,,flash?,,Sultai buildaround,,,,,,,,,,Nefarious Gravewrecker,,1,1,,,https://mtg.design/i/gewa31,1B,BU,,,,U
+123,6,,B,U,UB6,5,creature,,,,,Grixis buildaround,,,,,,,,,,Curious Graverobber,gravedigger-ish,3,3,,,https://mtg.design/i/jzva47,1B,BU,,,,U
+124,7,,B,U,UB7,any,creature,,,,,wacky buildaround,,,,,,,,,,,,,,,,,1B,BU,,,,U
+125,8,,B,U,UB8,any,creature,,,,,wacky buildaround,,,,,,,,,,Doubting Tactician,infiltrate,,,,,https://mtg.design/i/zyjk58,1B,BU,,,,U
+126,9,,B,U,UB9,-,,,,,,univ. high power,,,,,,,,,,Neurotic Owl,"maintenance, flying, deathtouch",,,,,https://mtg.design/i/fghc87,1B,BU,,,,U
+127,10,,B,U,UB10,-,,,,reanimation,,univ. high power,,,,,,,,,,,,,,,,,1B,BU,,,,U
+128,11,,B,U,UB11,-,,,,removal,,univ. high power,,,,,,,,,,Stab In The Back,,,,,,https://mtg.design/i/mmdk68,1B,BU,,,,U
+129,12,,B,U,UB12,-,,,,,,univ. high power,,,,,,,,,,,,,,,,,1B,BU,,,,U
+130,13,,B,U,UB13,-,,,,,,univ. high power,,,,,,,,,,Enter the Mausoleum,,,,,,https://mtg.design/i/waic40,1B,BU,,,,U
+131,14,,B,U,UB14,-,,,,saga cycle,,Misc.,,,,,,saga cycle,,,,Honor Among Thieves,,,,,,https://mtg.design/i/ejdo68,1B,BU,,,,U
+132,15,,B,U,UB15,-,,,cloak cycle,,,Misc.,,,,,,cloak,,,,Dark Cloak,,,,,,https://mtg.design/i/irau24,1B,BU,,,,U
+133,1,,B,R,RB1,-,,,,,,Rakdos,,,,,,,,,,Soul-Searching Demon,"Ward, flying, counters",4,4,,,,1B,BR,,,,R
+134,2,,B,R,RB2,-,,,,,,Golgari,,,,,,,,,,,,,,,,,1B,BR,,,,R
+135,3,,B,R,RB3,-,,,,,,Orzhov,,,,,,,,,,,,,,,,,1B,BR,,,,R
+136,4,,B,R,RB4,-,,,,,,Dimir,,,,,,,,,,Avian Necrosorcerer,,2,3,,,https://mtg.design/i/ygze59,1B,BR,,,,R
+137,5,,B,R,RB5,-,,,,,,Abzan,,,,,,,,,,Parasitic Nightmare,,4,4,,,https://mtg.design/i/psgo36/edit,1B,BR,,,,R
+138,6,,B,R,RB6,-,,,,,,Sultai,,,,,,,,,,Student of Mortality,,3,3,,,https://mtg.design/i/qwpo73,1B,BR,,,,R
+139,7,,B,R,RB7,-,,,,,,Grixis,,,,,,,,,,"Illuna, Millster",,2,3,,,https://mtg.design/i/rrtz46,1B,BR,,,,R
+140,8,,B,R,RB8,5,,,,,,univ. high power,,,,,,,,,,"Umtiku, Ready for the End",,5,2,,,https://mtg.design/i/hrzu98/edit,1B,BR,,,,R
+141,9,,B,R,RB9,-,,,,,,univ. high power,,,,,,reversed mechanic,,,,,,,,,,,1B,BR,,,,R
+142,10,,B,R,RB10,-,,,,,,Misc.,,,,,,,,,,Revolving Grave,,,,,,https://mtg.design/i/gmzz48,1B,BR,,,,R
+143,1,,B,M,MB1,-,,,,,,,,,,,,,,,,,,,,,,,1B,BM,,,,M
+144,2,,B,M,MB2,-,,,,,,,,,,,,,,,,,,,,,,,1B,BM,,,,M
+145,3,,B,M,MB3,-,,,,,,,,,,,,,,,,,,,,,,,1B,BM,,,,M
+146,4,,B,M,MB4,-,,,,,,,,,,,,,,,,,,,,,,,1B,BM,,,,M
+147,5,,B,M,MB5,-,,,,,,,,,,,,,,,,,,,,,,,1B,BM,,,,M
+148,1,A,R,C,CR1,1,creature,,,,,univ + low power,,Naya,,,,charm,,,,Goblin Freerunner,"Stone token, haste, first strike",1,1,1/1,,https://mtg.design/i/yffy47,1R,RC,,google,A,C
+148,1,B,R,C,CR1,1,creature,,,,,univ + low power,,Naya,,,,,,,,Tail-Hitcher Goblin,Mount,1,1,1/1,,https://mtg.design/i/oiri23,1R,RC,,google,B,C
+149,2,,R,C,CR2,2,creature,,,reach,,sideboard,,Jeskai,,,,,,,,Half of a Duo,"dragonrider, goblin, reflection",2,2,2/2,,https://mtg.design/i/eytm93,1R,RC,,google,,C
+150,3,,R,C,CR3,2,creature,,,menace ,,univ + high power,,Grixis,,,,,,,,Diligent Student,dragonrider+ ,1,2,1/2,,https://mtg.design/i/ejhn97,1R,RC,,google,,C
+151,4,,R,C,CR4,2,creature,,,haste,,univ + high power,,Naya,,,,,,,,Goblin Inspirator,goblin+,1,1,1/1,,https://mtg.design/i/erlx71,1R,RC,,google,,C
+152,5,A,R,C,CR5,3,creature,,,,speci + high power,,,Jeskai,,,,off color: black,,,,Firebreathing Unicorn,dragonrider+ ,2,3,2/3,,https://mtg.design/i/tcfe76,1R,RC,,google,A,C
+152,5,B,R,C,CR5,3,creature,,,,speci + high power,,,Jeskai,,,,off color: black,,,,Backdoor Arsonist,infiltrate+,3,2,3/2,,https://mtg.design/i/qjof55,1R,RC,,google,B,C
+153,6,A,R,C,CR6,3,creature,,,first strike,,univ + high power,,Grixis,,,,,,,,Loyal Berserker,"trample, infiltrate",3,3,3/3,,https://mtg.design/i/vaam15,1R,RC,,google,A,C
+153,6,B,R,C,CR6,3,creature,,,,,univ + high power,,Grixis,,,,,,,,Boggart Dude,menace,3,2,3/2,,https://mtg.design/i/ockq61,1R,RC,,google,B,C
+154,7,,R,C,CR7,4,creature,,1 mana dragonrider met dragonrider o en haste goblin,trample,,speci + high power,,"Naya, Jeskai",,,,,,,,Lazy Dragon,flying,3,3,3/3,,https://mtg.design/i/xqug31,1R,RC,,google,,C
+155,8,,R,C,CR8,4,creature,,,,,speci + high power,,"Jeskai, Grixis",,,,,,,,,,,,/,,,1R,RC,,google,,C
+156,9,,R,C,CR9,5,creature,,,first strike,,sideboard,,"Grixis, Naya",,,,,,,,,,,,/,,,1R,RC,,google,,C
+157,10,,R,C,CR10,5+,creature,,,haste,,univ + low power,,,,,,,,,,Conflicted Berserker,,5,6,5/6,,https://mtg.design/i/ryjc86,1R,RC,,google,,C
+158,11,,R,C,CR11,-,,,damage spell small,,,univ + low power,,,,,,,,,,Great Shot,burn,,,/,,https://mtg.design/i/rptt29,1R,RC,,google,,C
+159,12,,R,C,CR12,-,,,,damage spell,speci + high power,,,,,,,off color: white,,,,,,,,/,,,1R,RC,,google,,C
+160,13,,R,C,CR13,-,,,,act of treason,,mid + mid,,,,,,,,,,,,,,/,,,1R,RC,,google,,C
+161,14,,R,C,CR14,-,,,,team pump power / land destruction,,mid + mid,,,,,,,,,,,,,,/,,,1R,RC,,google,,C
+162,15,,R,C,CR15,-,,,,cantrip / rummage,,mid + mid,,,,,,,,,,,,,,/,,,1R,RC,,google,,C
+163,16,,R,C,CR16,-,,,,positive auro or equipment,,mid + mid,,,,,,,,,,,,,,/,,,1R,RC,,google,,C
+164,17,,R,C,CR17,-,,,,combat trick,,mid + mid,,,,,,,,,,,,,,/,,,1R,RC,,google,,C
+165,18,,R,C,CR18,-,,,,panick/damage to player,,mid + mid,,,,,,reversed mechanic,,,,,,,,/,,,1R,RC,,google,,C
+166,19,,R,C,CR19,-,,,,anythink,,mid + mid,,,,,,,,,,,,,,/,,,1R,RC,,google,,C
+167,1,,R,U,UR1,1,creature,,,haste,,Jeskai standalone,,,,,,,,,,,,,,,,,1R,RU,,,,U
+168,2,,R,U,UR2,2,creature,,double or first strike,,Naya standalone,,,,,,,,,,,Heroic Figure,"Dragonrider, flash, first strike",2,1,,,https://mtg.design/i/mdbr01,1R,RU,,,,U
+169,3,,R,U,UR3,2,creature,,,menace,,Grixis standalone,,,,,,,,,,,,,,,,,1R,RU,,,,U
+170,4,,R,U,UR4,3,creature,,,reach,,Naya buildaround,,,,,,,,,,Ill-Found Dragon,flying,2,3,,,https://mtg.design/i/bhwb65,1R,RU,,,,U
+171,5,,R,U,UR5,4,creature,,,trample,,Jeskai buildaround,,,,,,,,,,Rogue Dragon,,3,3,,,https://mtg.design/i/jloa41,1R,RU,,,,U
+172,6,,R,U,UR6,5,creature,,,,,Grixis buildaround,,,,,,,,,,"Pombus, Stresseater",,6,5,,,https://mtg.design/i/psfg25,1R,RU,,,,U
+173,7,,R,U,UR7,any,creature,,,,,wacky buildaround,,,,,,,,,,,,,,,,,1R,RU,,,,U
+174,8,,R,U,UR8,any,creature,,,,,wacky buildaround,,,,,,,,,,,,,,,,,1R,RU,,,,U
+175,9,,R,U,UR9,-,,,cloak cycle,,,univ. high power,,,,,,cloak,,,,Fury Cloak,,,,,,https://mtg.design/i/mowc33,1R,RU,,,,U
+176,10,,R,U,UR10,-,,,,direct damage ,,univ. high power,,,,,,,,,,,,,,,,,1R,RU,,,,U
+177,11,,R,U,UR11,-,,,,minisweeper,,univ. high power,,,,,,,,,,Burn Baby,mini-wipe,,,,,https://mtg.design/i/ghem70,1R,RU,,,,U
+178,12,,R,U,UR12,-,,,,saga cycle,,univ. high power,,,,,,saga,,,,Explosive Ritual,stone token payoff,,,,,https://mtg.design/i/niig31,1R,RU,,,,U
+179,13,,R,U,UR13,-,,,,,,univ. high power,,,,,,,,,,Burn the Twins,"removal, reflection hoser",,,,,https://mtg.design/i/ptxq72,1R,RU,,,,U
+180,14,,R,U,UR14,-,,,,,,Misc.,,,,,,,,,,Chains of Fire,"removal, counter",,,,,https://mtg.design/i/caco76,1R,RU,,,,U
+181,15,,R,U,UR15,-,,,,,,Misc.,,,,,,,,,,Throwing Rocks,stone token payoff,,,,,https://mtg.design/i/deqg10,1R,RU,,,,U
+182,1,,R,R,RR1,,,,,,,Gruus,,,,,,,,,,,,,,,,,1R,RR,,,,R
+183,2,,R,R,RR2,,,,,,,Boros,,,,,,,,,,"Grullo, Provoking Spirits",,3,2,,,https://mtg.design/i/cngx10/edit,1R,RR,,,,R
+184,3,,R,R,RR3,,,,,,,Izzet,,,,,,,,,,,,,,,,,1R,RR,,,,R
+185,4,,R,R,RR4,,,,,,,Rakdos,,,,,,,,,,,,,,,,,1R,RR,,,,R
+186,5,,R,R,RR5,,,,,,,Naya,,,,,,,,,,,,,,,,,1R,RR,,,,R
+187,6,,R,R,RR6,,,,,,,Jeskai,,,,,,,,,,Sparkling Goblin,,2,1,,,https://mtg.design/i/bgbk93.jpg,1R,RR,,,,R
+188,7,,R,R,RR7,,,,,,,Grixis,,,,,,alt win con rare,,,,"Yuani, Dagger Master",,2,3,,,https://mtg.design/i/eder22,1R,RR,,,,R
+189,8,,R,R,RR8,,,,,,,univ. high power,,,,,,,,,,Gung-Ho Goblin,,2,2,,,https://mtg.design/i/ebny47,1R,RR,,,,R
+190,9,,R,R,RR9,,,,,,,univ. high power,,,,,,,,,,,,,,,,,1R,RR,,,,R
+191,10,,R,R,RR10,,,,,,,Misc.,,,,,,,,,,,,,,,,,1R,RR,,,,R
+192,1,,R,M,MR1,,,,,,,,,,,,,,,,,,,,,,,,1R,RM,,,,M
+193,2,,R,M,MR2,,,,,,,,,,,,,,,,,,,,,,,,1R,RM,,,,M
+194,3,,R,M,MR3,,,,,,,,,,,,,,,,,,,,,,,,1R,RM,,,,M
+195,4,,R,M,MR4,,,,,,,,,,,,,,,,,,,,,,,,1R,RM,,,,M
+196,5,,R,M,MR5,,,,,,,,,,,,,,,,,,,,,,,,1R,RM,,,,M
+197,1,,G,C,CG1,1,creature,,,,,univ + low power,,Naya,,,,charm,,,,Doubting Elf,"trample, fixing, disenchant",1,2,1/2,,https://mtg.design/i/vtdq64,1G,GC,,google,,C
+198,2,A,G,C,CG2,2,creature,,mana fixer/ramper,,,sideboard,,Abzan,,,,,,,,"Small, Yet Big","trample, fixing, disenchant",0,3,0/3,,https://mtg.design/i/mmrr97,1G,GC,,google,A,C
+198,2,B,G,C,CG2,2,creature,,mana fixer/ramper,,,sideboard,,Abzan,,,,,,,,Elf Alchemist,,1,1,1/1,,https://mtg.design/i/yzzc10,1G,GC,,google,B,C
+198,2,C,G,C,CG2,2,creature,,mana fixer/ramper,,,sideboard,,Abzan,,,,,,,,Generous Druid,,1,3,1/3,,https://mtg.design/i/tloz15,1G,GC,,google,C,C
+199,3,A,G,C,CG3,2,creature,,,,,univ + high power,,Sultai,,,,,,,,Bonzai Boar,,3,3,3/3,,https://mtg.design/i/mcdz22,1G,GC,,google,A,C
+199,3,B,G,C,CG3,2,creature,,,,,univ + high power,,Sultai,,,,,,,,Nozy Alchemist,,2,2,2/2,,https://mtg.design/i/smdr83,1G,GC,,google,B,C
+200,4,,G,C,CG4,3,creature,,,reach,,univ + high power,,Naya,,,,,,,,Peaceful Elephant,dragonrider+,,,/,,https://mtg.design/i/tsaf29,1G,GC,,google,,C
+201,5,,G,C,CG5,3,creature,,,trample,speci + high power,,,Abzan,,,,off color: red,,,,Beast Lurker,dragonrider+,1,4,1/4,,https://mtg.design/i/kahw28,1G,GC,,google,,C
+202,6,,G,C,CG6,3/4,creature,,,,,univ + high power,,Sultai,,,,,,,,Tame Spider,dragonrider+,,,/,,https://mtg.design/i/mzai21,1G,GC,,google,,C
+203,7,,G,C,CG7,4,creature,,,vigilance,,speci + high power,,"Naya, Abzan",,,,,,,,,,,,/,,,1G,GC,,google,,C
+204,8,,G,C,CG8,4,creature,,trample,deathtouch,,speci + high power,,"Abzan, Sultai",,,,,,,,Grazing Elephant,dragonrider+,4,4,4/4,,https://mtg.design/i/mpax25,1G,GC,,google,,C
+205,9,,G,C,CG9,5,creature,,,flash (?),,sideboard,,"Sultai, Naya",,,,,,,,Green Dragon,,3,3,3/3,,https://mtg.design/i/obzs23,1G,GC,,google,,C
+206,10,,G,C,CG10,5/6,creature,,,,,univ + low power,,,,,,,,,,,,,,/,,,1G,GC,,google,,C
+207,11,,G,C,CG11,6+,creature,,,,,univ + low power,,,,,,,,,,Stompy Beast,,,,/,,https://mtg.design/i/ewxy94,1G,GC,,google,,C
+208,12,,G,C,CG12,3,instant,,,fight/bite,speci + high power,,,,,,,off color: black,,,,Throw Your Weight Around,,,,/,,https://mtg.design/i/pbyp47,1G,GC,,google,,C
+209,13,,G,C,CG13,,,,,power/tough pump,,mid + mid,,,,,,,,,,,,,,/,,,1G,GC,,google,,C
+210,14,,G,C,CG14,,,,,combat trick,,mid + mid,,,,,,,,,,,,,,/,,,1G,GC,,google,,C
+211,15,,G,C,CG15,,,,,cantrip,,mid + mid,,,,,,,,,,,,,,/,,,1G,GC,,google,,C
+212,16,,G,C,CG16,,,,,positive aura/equipment,,mid + mid,,,,,,,,,,,,,,/,,,1G,GC,,google,,C
+213,17,,G,C,CG17,,,,,anti-flying,,mid + mid,,,,,,,,,,Plummeting,reap,,,/,,https://mtg.design/i/tkau36,1G,GC,,google,,C
+214,18,,G,C,CG18,,,,,mana ramp ,,mid + mid,,,,,,,,,,,,,,/,,,1G,GC,,google,,C
+215,19,,G,C,CG19,,,,,disenchant,,mid + mid,,,,,,,,,,,,,,/,,,1G,GC,,google,,C
+216,1,,G,U,UG1,1,creature,,,deathtouch,,Naya standalone,,,,,,,,,,,,,,,,,1G,GU,,,,U
+217,2,,G,U,UG2,2,creature,,,flash?,,Abzan standalone,,,,,,,,,,Slime That Grows,,2,2,,,https://mtg.design/i/euzt95,1G,GU,,,,U
+218,3,,G,U,UG3,2,creature,,,haste,,Sultai standalone,,,,,,,,,,,,,,,,,1G,GU,,,,U
+219,4,,G,U,UG4,3,creature,,,indestructible,,Naya buildaround,,,,,,,,,,Dark Horse,,,,,,https://mtg.design/i/hsaf04,1G,GU,,,,U
+220,5,,G,U,UG5,4,creature,,,reach,,Abzan buildaround,,,,,,,,,,,,,,,,,1G,GU,,,,U
+221,6,,G,U,UG6,5,creature,,,trample,,Sultai buildaround,,,,,,,,,,Giant Dumbo,,6,6,,,https://mtg.design/i/kvya59/edit,1G,GU,,,,U
+222,7,,G,U,UG7,6+,creature,,,vigilance,,wacky buildaround,,,,,,,,,,Pouncing Pachyderm,,7,7,,,https://mtg.design/i/ijhs09,1G,GU,,,,U
+223,8,,G,U,UG8,any,creature,,,,,wacky buildaround,,,,,,,,,,,,,,,,,1G,GUAbzan,,,,U
+224,9,,G,U,UG9,any,creature,,,,,univ. high power,,,,,,,,,,,,,,,,,1G,GU,,,,U
+225,10,,G,U,UG10,,,,,mana ramp,,univ. high power,,,,,,,,,,,,,,,,,1G,GU,,,,U
+226,11,,G,U,UG11,,,,cloak cycle,,,univ. high power,,,,,,cloak,,,,Grass Cloak,,,,,,https://mtg.design/i/eugf08,1G,GU,,,,U
+227,12,,G,U,UG12,,,,,saga cycle,,univ. high power,,,,,,saga,,,,Treetop Alchemist,,,,,,https://mtg.design/i/ifrd01,1G,GU,,,,U
+228,13,,G,U,UG13,,,,,,,univ. high power,,,,,,,,,,,,,,,,,1G,GU,,,,U
+229,14,,G,U,UG14,1,instant,,,,,Misc.,Abzan,,,,,,,,,Fog Of Labour,,,,,,https://mtg.design/i/myme98.jpg,1G,#REF!,,,,U
+230,15,,G,U,UG15,,,,,,,Misc.,,,,,,,,,,Necessary Supplies,,,,,,https://mtg.design/i/gocb63,1G,GU,,,,U
+231,1,,G,R,RG1,,,,,,,Selesnya,,,,,,,,,,,,,,,,,1G,GR,,,,R
+232,2,,G,R,RG2,,,,,,,Simic,,,,,,,,,,,,,,,,,1G,GR,,,,R
+233,3,,G,R,RG3,,,,,,,Golgari,,,,,,,,,,,,,,,,,1G,GR,,,,R
+234,4,,G,R,RG4,,,,,,,Gruul,,,,,,,,,,,,,,,,,1G,GR,,,,R
+235,5,,G,R,RG5,,,,,,,Naya,,,,,,,,,,Caged Display,,,,,,https://mtg.design/i/wqpj31,1G,GR,,,,R
+236,6,,G,R,RG6,,,,,,"Abzan, Sultai",Abzan,,,,,,alt win con rare,,,,"Tenysi, One With Trees",,2,3,,,https://mtg.design/i/uijs80,1G,GR,,,,R
+237,7,,G,R,RG7,,,,,,,Sultai,,,,,,,,,,,,,,,,,1G,GR,,,,R
+238,8,,G,R,RG8,,,,,,,univ. high power,,,,,,,,,,,,,,,,,1G,GR,,,,R
+239,9,,G,R,RG9,,,,,,,univ. high power,,,,,,,,,,,,,,,,,1G,GR,,,,R
+240,10,,G,R,RG10,,,,,,,Misc.,,,,,,reversed mechanic,,,,,,,,,,,1G,GR,,,,R
+241,1,,G,M,MG1,,,,,,,,,,,,,,,,,,,,,,,,1G,GM,,,,M
+242,2,,G,M,MG2,,,,,,,,,,,,,,,,,,,,,,,,1G,GM,,,,M
+243,3,,G,M,MG3,,,,,,,,,,,,,,,,,,,,,,,,1G,GM,,,,M
+244,4,,G,M,MG4,,,,,,,,,,,,,,,,,,,,,,,,1G,GM,,,,M
+245,5,,G,M,MG5,,,,,,,,,,,,,,,,,,,,,,,,1G,GM,,,,M
+246,1,,M,U,UM1,1,,,,,,,,Azorius,,,,,,,,,,,,,,,1M,MU,,,,U
+247,2,,M,U,UM2,1,,,,,,,,Azorius,,,,,,,,,,,,,,,1M,MU,,,,U
+248,3,,M,U,UM3,1,,,,,,,,Dimir,,,,,,,,Confusion Mage,,,,,,https://mtg.design/i/ljoe93,1M,MU,,,,U
+249,4,,M,U,UM4,1,,,,,,,,Dimir,,,,enemy hate,,,,Hard Break Up,,,,,,https://mtg.design/i/wqxy80,1M,MU,,,,U
+250,5,,M,U,UM5,1,,,,,,,,Rakdos,,,,,,,,Quarrelsome Hound,,,,,,https://mtg.design/i/ombj74,1M,MU,,,,U
+251,6,,M,U,UM6,1,,,,,,,,Rakdos,,,,,,,,"Waru, Rakdos Rogue",,,,,,https://mtg.design/i/nuoy74,1M,MU,,,,U
+252,7,,M,U,UM7,1,,,,,,,,Gruul,,,,,,,,,,,,,,,1M,MU,,,,U
+253,8,,M,U,UM8,1,,,,,,,,Gruul,,,,,,,,Wee Dragon,,1,1,,,https://mtg.design/i/vtzq17,1M,MU,,,,U
+254,9,,M,U,UM9,1,,,,,,,,Selesnya,,,,enemy hate,,,,Ban the Unworthy,,,,,,https://mtg.design/i/vlsp72,1M,MU,,,,U
+255,10,,M,U,UM10,1,,,,,,,,Selesnya,,,,,,,,"Big Ears, Great Memory",maintenance,,,,,https://mtg.design/i/hres71,1M,MU,,,,U
+256,11,,M,U,UM11,1,,,,,,,,Orzhov,,,,,,,,,,,,,,,1M,MU,,,,U
+257,12,,M,U,UM12,1,,,,,,,,Orzhov,,,,,,,,,,,,,,,1M,MU,,,,U
+258,13,,M,U,UM13,1,,,,,,,,Izzet,,,,enemy hate,,,,"Jubila, Provoker of Stress",,3,2,,,https://mtg.design/i/juhf15,1M,MU,,,,U
+259,14,,M,U,UM14,1,,,,,,,,Izzet,,,,,,,,Explosive Insight,,,,,,https://mtg.design/i/ycra78,1M,MU,,,,U
+260,15,,M,U,UM15,1,,,,,,,,Golgari,,,,enemy hate,,,,"Snimb, Wrinklemaker",,3,3,,,https://mtg.design/i/hzva99,1M,MU,,,,U
+261,16,,M,U,UM16,1,,,,,,,,Golgari,,,,,,,,,,,,,,,1M,MU,,,,U
+262,17,,M,U,UM17,1,,,,,,,,Boros,,,,enemy hate,,,,Squadron Captain,,3,1,,,https://mtg.design/i/uugl55,1M,MU,,,,U
+263,18,,M,U,UM18,1,,,,,,,,Boros,,,,,,,,,,,,,,,1M,MU,,,,U
+264,19,,M,U,UM19,1,,,,,,,,Simic,,,,,,,,"Nicully, Forest Feeder",,2,2,,,https://mtg.design/i/keri97,1M,MU,,,,U
+265,20,,M,U,UM20,1,,,,,,,,Simic,,,,,,,,Fabled Collector,,3,3,,,https://mtg.design/i/vlxv21,1M,MU,,,,U
+266,21,,M,U,UM21,1,,,,,,,,ABZAN,,,,,,,,,,,,,,,1M,MU,,,,U
+267,22,,M,U,UM22,1,,,Triome-land,,,,ABZAN,,,,,,,,,Laborious Factory,,,,,,https://mtg.design/i/kupd23,1M,MUABZAN,,,,U
+268,23,,M,U,UM23,1,,,,,,,,SULTAI,,,,,,,,,,,,,,,1M,MU,,,,U
+269,24,,M,U,UM24,1,,,Triome-land,,,,SULTAI,,,,,,,,,Sultai University,,,,,,https://mtg.design/i/ystm04,1M,MUSULTAI,,,,U
+270,25,,M,U,UM25,1,,,,,,,,GRIXIS,,,,,,,,,,,,,,,1M,MU,,,,U
+271,26,,M,U,UM26,1,,,Triome-land,,,,GRIXIS,,,,,,,,,Sinister Brothel,,,,,,https://mtg.design/i/bvwc85.jpg,1M,MUGRIXIS,,,,U
+272,27,,M,U,UM27,1,,,,,,,,NAYA,,,,,,,,,,,,,,,1M,MU,,,,U
+273,28,,M,U,UM28,1,,,Triome-land,,,,NAYA,,,,,,,,,Fantasy Castle,,,,,,https://mtg.design/i/qaic43,1M,MUNAYA,,,,U
+274,29,,M,U,UM29,1,,,,,,,,JESKAI,,,,,,,,,,,,,,,1M,MU,,,,U
+275,30,,M,U,UM30,1,,,Triome-land,,,,JESKAI,,,,,,,,,Shiny Lake,,,,,,https://mtg.design/i/txmb33,1M,MUJESKAI,,,,U
+276,1,,M,R,RM1,1,,,,,,,,Azorius,,,,,,,,,,,,,,,1M,MR,,,,R
+277,2,,M,R,RM2,1,,,,,,,,Dimir,,,,,,,,,,,,,,,1M,MR,,,,R
+278,3,,M,R,RM3,1,,,,,,,,Rakdos,,,,,,,,"Yacintha, Mother of Goblins",,,,,,https://mtg.design/i/zige50,1M,MR,,,,R
+279,4,,M,R,RM4,1,,,,,,,,Gruul,,,,,,,,,,,,,,,1M,MR,,,,R
+280,5,,M,R,RM5,1,,,,,,,,Selesnya,,,,,,,,,,,,,,,1M,MR,,,,R
+281,6,,M,R,RM6,1,,,,,,,,Orzhov,,,,,,,,,,,,,,,1M,MR,,,,R
+282,7,,M,R,RM7,1,,,,,,,,Izzet,,,,,,,,Izzet Imp,,1,1,,,https://mtg.design/i/jvth81,1M,MR,,,,R
+283,8,C,M,R,RM8,1,,,,,,,,Golgari,,,,,,,,Carcass Feast,counters,,,,,https://mtg.design/i/dntf13,1M,MR,,,,R
+283,8,A,M,R,RM8,1,,,,,,,,Golgari,,,,,,,,"Krazna, Blind Hunter",,3,3,,,https://mtg.design/i/ljvq14,1M,MR,,,,R
+283,8,B,M,R,RM8,1,,,,,,,,Golgari,,,,,,,,"Bokito, Unchained",,5,4,,,https://mtg.design/i/ugmh77,1M,MR,,,,R
+284,9,,M,R,RM9,1,,,,,,,,Boros,,,,,,,,,,,,,,,1M,MR,,,,R
+285,10,,M,R,RM10,1,,,,,,,,Simic,,,,,,,,,,,,,,,1M,MR,,,,R
+286,11,,M,R,RM11,1,,,,,,,,ABZAN,,,,,,,,,,,,,,,1M,MR,,,,R
+287,12,,M,R,RM12,5,artifact,,,,,,,SULTAI,,,,,,,,Grandma's Will,,,,,,https://mtg.design/i/dtwu55.jpg,1M,MR,,,,R
+288,13,,M,R,RM13,1,,,,,,,,GRIXIS,,,,,,,,,,,,,,,1M,MR,,,,R
+289,14,,M,R,RM14,1,,,,,,,,NAYA,,,,,,,,,,,,,,,1M,MR,,,,R
+290,15,,M,R,RM15,1,,,,,,,,JESKAI,,,,,,,,,,,,,,,1M,MR,,,,R
+291,1,,M,M,MM1,1,,,,,,,,ABZAN,,,,ultimatun-ish,,,,,,,,,,,1M,MM,,,,M
+292,2,,M,M,MM2,1,,,,,,,,SULTAI,,,,ultimatun-ish,,,,"Geronimo Fernic, Storyteller",,,,,,https://mtg.design/i/dyhp06,1M,MM,,,,M
+293,3,,M,M,MM3,1,,,,,,,,GRIXIS,,,,ultimatun-ish,,,,"Paulos, The Mastermind",,,,,,https://mtg.design/i/vcdd11,1M,MM,,,,M
+294,4,,M,M,MM4,1,,,,,,,,JESKAI,,,,ultimatun-ish,,,,"Reol, Friend of Goblins",,,,,,https://mtg.design/i/dmic26,1M,MM,,,,M
+295,5,,M,M,MM5,1,,,,,,,NAYA,,,,,ultimatun-ish,,,,"Gus Wingman, Superfan",,,,,,https://mtg.design/i/hafy02,1M,MMNAYA,,,,M
+296,6,,M,M,MM6,1,,,,,,,,ABZAN,,,,,,,,"Steve-O, Orzhov Crook",,,,,,https://mtg.design/i/uhsm99,1M,MM,,,,M
+297,7,,M,M,MM7,1,,,,,,,,SULTAI,,,,,,,,,,,,,,,1M,MM,,,,M
+298,8,,M,M,MM8,1,,,,,,,,GRIXIS,,,,,,,,,,,,,,,1M,MM,,,,M
+299,9,,M,M,MM9,1,,,,,,,,NAYA,,,,,,,,"Floros, Master of Boros",,,,,,https://mtg.design/i/weva28,1M,MM,,,,M
+300,10,,M,M,MM10,1,,,,,,,,JESKAI,,,,,,,,,,,,,,,1M,MM,,,,M
+301,1,,A,C,CA1,1/2,creature,,,,,,,,,,,,,,,Wall of Stones,stone tokens,0,*,0/*,,https://mtg.design/i/jxte08,1A,AC,,google,,C
+302,2,A,A,C,CA2,,,,equipment,,,,,,,,,,,,,Hammer,,,,/,,https://mtg.design/i/ryiz11,1A,AC,,google,A,C
+302,2,B,A,C,CA2,,,,equipment,,,,,,,,,,,,,Abacus of Efficiency,,,,/,,https://mtg.design/i/teez19,1A,AC,,google,B,C
+303,3,,A,C,CA3,3/4,creature,,,,,,,,,,,,,,,Auxiliary Bird,,2,2,2/2,,https://mtg.design/i/relp07,1A,AC,,google,,C
+304,4,,A,C,CA4,,,,mana fix/production,,,,,,,,,,,,,Prismatic Golem,,1,2,1/2,,https://mtg.design/i/fhlr41,1A,AC,,google,,C
+305,5,A,A,C,CA5,,,,land fetching/color fixing,,,,,,,,,,,,,Artificial Rainbow,,,,/,,https://mtg.design/i/uzhj63,1A,AC,,google,A,C
+305,5,B,A,C,CA5,,,,land fetching/color fixing,,,,,,,,,,,,,Mox Evenkite,,,,/,,https://mtg.design/i/xyvk24,1A,AC,,google,B,C
+306,6,,A,C,CA6,5/6,creature,,equipment/vehicle,,,,,,,,,,,,,Colossal Ram,,5,3,5/3,,https://mtg.design/i/sfnp89,1A,AC,,google,,C
+307,1,,A,U,UA1,1/2,creature,,,,,,,,,,,,,,,Alpha Lion,,2,2,,,https://mtg.design/i/nsly25,1A,AU,,,,U
+308,2,A,A,U,UA2,3/4,creature,,,,,,,,,,,,,,,Boring Worrior,,3,1,,,https://mtg.design/i/vvyu16,1A,AU,,,,U
+308,2,B,A,U,UA2,3/4,creature,,,,,,,,,,,,,,,Rusty Peg,,2,1,,,https://mtg.design/i/sitb89,1A,AU,,,,U
+309,3,A,A,U,UA3,5/6,creature,,,,,,,,,,,,,,,Rusting Jaguar,,1,1,,,https://mtg.design/i/qnnd02,1A,AU,,,,U
+309,3,B,A,U,UA3,5/6,creature,,,,,,,,,,,,,,,Graviton,,*,*,,,https://mtg.design/i/dxfg44,1A,AU,,,,U
+310,4,,A,U,UA4,,,,,removal (inefficient/conditional),,,,,,,,,,,,,,,,,,,1A,AU,,,,U
+311,5,,A,U,UA5,,,,,,,,,,,,,,,,,,,,,,,,1A,AU,,,,U
+312,6,,A,U,UA6,,,,,,,,,,,,,,,,,,,,,,,,1A,AU,,,,U
+313,7,,A,U,UA7,,,,,,,,,,,,,,,,,,,,,,,,1A,AU,,,,U
+314,1,,A,R,RA1,,,,,,,,,,,,,,,,,Printstone,,,,,,https://mtg.design/i/obbg54,1A,AR,,,,R
+315,2,,A,R,RA2,,,,,,,,,,,,,,,,,Giant Slingslot,,,,,,https://mtg.design/i/ebgj65,1A,AR,,,,R
+316,1,,A,M,MA1,,,,,,,,,,,,,,,,,Epic Hippopotamus,,2,3,,,https://mtg.design/i/xgof43,1A,AM,,,,M
+317,1,,L,C,CL1,,,,,,,,,,,,,,,,,,,,,/,,,1L,LC,,google,,C
+318,1,,L,C,CL1,,,,,,,,,,,,,,,,,Mining Grounds,,,,/,,https://mtg.design/i/dwlu59,1L,LC,,google,,C
+319,1,,L,U,UL1,,,,,,,,,,,,,,,,,Multicultural land,,,,,,https://mtg.design/i/fbzl87,1L,LU,,,,U
+320,1,,L,U,UL1,,,,,,,,,,,,,,,,,Multicultural land,,,,,,https://mtg.design/i/jhdh78,1L,LU,,,,U
+321,1,,L,U,UL1,,,,,,,,,,,,,,,,,,,,,,,,1L,LU,,,,U
+322,1,,L,R,RL1,,,,,,,,,,,,,,,,,,,,,,,,1L,LR,,,,R
