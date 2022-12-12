@@ -23,28 +23,30 @@ def run_scryfall_api(url):
 
     return data
 
-data = run_scryfall_api(url)
+if __name__ == "__main__":
+    data = run_scryfall_api(url)
 
-print(len(data))
+    print(len(data))
 
 #%%
 
-def save_images(data, path='output/'):
+def save_images(data, path='scryfall_images/'):
 
     if not os.path.isdir(path):
         os.mkdir(path)
     
-    def store_image(image_uri, path, name='test', num=0):
-        if name+'.jpg' in os.listdir(path):
+    def store_image(image_uri, path, name='test', num='000', i='0'):
+        if num+'_'+name+'.jpg' in os.listdir(path):
+            print(f"{i} - {name} was cached")
             return
 
         res = requests.get(image_uri, stream=True)
         if res.status_code == 200:
-            with open(path+name+'.jpg', 'wb') as f:
+            with open(path+num+'_'+name+'.jpg', 'wb') as f:
                 shutil.copyfileobj(res.raw, f)
-            print(f"successfully downloaded {name}")
+            print(f"{i} - successfully downloaded {name}")
         else:
-            print(f"couldn't download {name}")
+            print(f"{i} - couldn't download {name}")
         time.sleep(0.1)
 
     uris = []
@@ -54,18 +56,19 @@ def save_images(data, path='output/'):
             u = card['image_uris']['large']
             n = card['name'].replace('/', '-')
             c = str(i).rjust(3, '0')
-            store_image(u, path, name=n, num=c)
+            store_image(u, path, name=n, num=c, i=i)
         except KeyError as ke:
-            if str(ke) == 'image_uris':
-                for finx, face in enumerate(card['card_faces']):
-                    u = face['image_uris']['large']
-                    n = face['name']
-                    c = str(i).rjust(3, '0') + list('ab')[finx]
-                    store_image(u, path, name=n, num=c)
+            print(f"Card {card['name']} should have multiple faces")
+
+            for finx, face in enumerate(card['card_faces']):
+                u = face['image_uris']['large']
+                n = face['name']
+                c = str(i).rjust(3, '0') + list('ab')[finx]
+                store_image(u, path, name=n, num=c, i=i)
     
     for image_uri in uris[:2]:
         return store_image(image_uri, path)
 
-            
-res = save_images(data)
-# %%
+if __name__ == "__main__":
+    save_images(data)
+
