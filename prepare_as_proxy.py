@@ -49,6 +49,42 @@ def proxify_image(path_to_image=None, image=None, logo=True):
 
     return background
 
+def remove_copyright_from_image(path_to_image=None):
+    if path_to_image is None:
+        raise ValueError("Must provide path_to_image")
+
+    im = Image.open(path_to_image)
+
+    overlay_width = 300
+    overlay_height = 50
+    overlay_color =  im.getpixel((300, 5))
+
+    overlay_location_spell = (480, 1015)
+    overlay_location_creature = (480, 1030)
+
+    overlay = Image.new('RGB', (overlay_width, overlay_height), overlay_color)
+
+    # paste overlay onto image
+    im.paste(overlay, overlay_location_spell)
+    im.show()
+
+    spell = input("Is this a spell? [y]/n")
+    if spell in ['y', '']:
+        im.save(path_to_image)
+        return
+
+    im = Image.open(path_to_image)
+
+    im.paste(overlay, overlay_location_creature)
+    im.show()
+
+    creature = input("Is this a creature? [y]/n")
+    if creature in ['y', '']:
+        im.save(path_to_image)
+        return
+
+    print(f"Other: {path_to_image}")
+
 def proxify_directory(directory="scryfall_images/", output_folder="proxies/", logo=True):
     if not os.path.isdir(output_folder):
         os.mkdir(output_folder)
@@ -64,4 +100,12 @@ def proxify_directory(directory="scryfall_images/", output_folder="proxies/", lo
         print(f"Saved {f} to {output_folder}")	
 
 if __name__ == "__main__":
-    proxify_directory(directory="fela_and_moya/", output_folder="proxies/fela_and_moya/", logo=False)
+    # proxify_directory(directory="fela_and_moya/", output_folder="proxies/fela_and_moya/", logo=False)
+
+    # remove_copyright_from_image("proxies/001_Abrade.jpg")
+
+    path = "proxies/fela_and_moya/"
+    for f in os.listdir(path):
+        remove_copyright_from_image(path+f)
+
+# %%
