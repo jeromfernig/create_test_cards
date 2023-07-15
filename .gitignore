@@ -1,6 +1,22 @@
 mtg_test_cards/data/art
 mtg_test_cards/data/temp_zelda_edh
 output/
+auto-proxy/images/*.png
+custom_cards/*.jpg
+fela_and_moya/*.jpg
+fela_and_moya/*.jfif
+personal_cards/*.png
+proxies/custom_proxies/*.jpg
+proxies/dfcs/*.jpg
+proxies/fela_and_moya/*.jpg
+proxies/fela_and_moya/*.png
+proxies/personal_proxies/*.jpg
+proxies/personal_proxies/*.png
+proxies/*.jpg
+proxies/*.png
+proxies_backup/*
+scryfall_images/*
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,0 +1,77 @@
+Other: proxies/018_Ashen Rider.jpg
+Other: proxies/019_Ashiok, Nightmare Weaver.jpg
+Other: proxies/022_Avalanche Riders.jpg
+Other: proxies/038_Birds of Paradise.jpg
+Other: proxies/041_Blackcleave Cliffs.jpg
+Other: proxies/061_Bribery.jpg
+Other: proxies/062_Brimaz, King of Oreskos.jpg
+Other: proxies/070_Char.jpg
+Other: proxies/083_Copperline Gorge.jpg
+Other: proxies/102_Darkslick Shores.jpg
+Other: proxies/104_Deceiver Exarch.jpg
+Other: proxies/125_Elspeth, Knight-Errant.jpg
+Other: proxies/126_Elspeth, Sun's Champion.jpg
+Other: proxies/129_Empty the Warrens.jpg
+Other: proxies/148_Figure of Destiny.jpg
+Other: proxies/157_Fractured Identity.jpg
+Other: proxies/161_Gaea's Cradle.jpg
+Other: proxies/163_Garruk Wildspeaker.jpg
+Other: proxies/167_Gideon Jura.jpg
+Other: proxies/170_Gitaxian Probe.jpg
+Other: proxies/186_Grim Monolith.jpg
+Other: proxies/196_Hero of Bladehold.jpg
+Other: proxies/197_Hero's Downfall.jpg
+Other: proxies/201_Honor of the Pure.jpg
+Other: proxies/207_Imperial Seal.jpg
+Other: proxies/209_Incinerate.jpg
+Other: proxies/210_Inferno Titan.jpg
+Other: proxies/218_Joraga Treespeaker.jpg
+Other: proxies/238_Leonin Relic-Warder.jpg
+Other: proxies/255_Looter il-Kor.jpg
+Other: proxies/256_Lotus Bloom.jpg
+Other: proxies/265_Makeshift Mannequin.jpg
+Other: proxies/268_Mana Flare.jpg
+Other: proxies/271_Mana Tithe.jpg
+Other: proxies/278_Metalworker.jpg
+Other: proxies/281_Mindslaver.jpg
+Other: proxies/282_Mind Twist.jpg
+Other: proxies/284_Miscalculation.jpg
+Other: proxies/300_Mutavault.jpg
+Other: proxies/308_Necromancy.jpg
+Other: proxies/315_Nykthos, Shrine to Nyx.jpg
+Other: proxies/323_Opposition.jpg
+Other: proxies/325_Oracle of Mul Daya.jpg
+Other: proxies/336_Pestermite.jpg
+Other: proxies/342_Plow Under.jpg
+Other: proxies/344_Polukranos, World Eater.jpg
+Other: proxies/346_Porcelain Legionnaire.jpg
+Other: proxies/352_Progenitus.jpg
+Other: proxies/354_Pyretic Ritual.jpg
+Other: proxies/356_Qasali Pridemage.jpg
+Other: proxies/361_Rakdos's Return.jpg
+Other: proxies/364_Ravages of War.jpg
+Other: proxies/366_Razorverge Thicket.jpg
+Other: proxies/378_Riftwing Cloudskate.jpg
+Other: proxies/391_Seachrome Coast.jpg
+Other: proxies/400_Shallow Grave.jpg
+Other: proxies/403_Shelldock Isle.jpg
+Other: proxies/405_Show and Tell.jpg
+Other: proxies/408_Shrine of Burning Rage.jpg
+Other: proxies/423_Sower of Temptation.jpg
+Other: proxies/436_Student of Warfare.jpg
+Other: proxies/445_Sylvan Caryatid.jpg
+Other: proxies/448_Tangle Wire.jpg
+Other: proxies/470_Time Spiral.jpg
+Other: proxies/474_Tinker.jpg
+Other: proxies/481_Treachery.jpg
+Other: proxies/483_Trinket Mage.jpg
+Other: proxies/492_Umezawa's Jitte.jpg
+Other: proxies/dfcs/162a_Garruk Relentless.jpg
+Other: proxies/dfcs/162b_Garruk, the Veil-Cursed.jpg
+Other: proxies/dfcs/202a_Huntmaster of the Fells.jpg
+Other: proxies/dfcs/202b_Ravager of the Fells.jpg
+Other: proxies/dfcs/502b_Tibalt, Cosmic Impostor.jpg
+Other: proxies/personal_proxies/c13-201-nekusar-the-mindrazer.png
+Other: proxies/personal_proxies/inv-237-captain-sisay.png
+Other: proxies/personal_proxies/rav-205-firemane-angel.png
+Other: proxies/personal_proxies/uds-101-ancient-silverback.png
